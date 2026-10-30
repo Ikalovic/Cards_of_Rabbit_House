@@ -1,0 +1,192 @@
+[
+  {
+    "id": "paper_page_turn_01",
+    "filename": "paper_page_turn_01.mp3",
+    "original_title": "ページをめくる1",
+    "source_page": "https://soundeffect-lab.info/sound/various/various2.html",
+    "download_url": "https://soundeffect-lab.info/sound/various/mp3/page1.mp3",
+    "provider": "効果音ラボ",
+    "intended_uses": [
+      "翻开卡册",
+      "翻句/拿纸候选"
+    ],
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "license_note": "按2026-10-16官方条款：个人/商业作品可免费使用与加工，署名、链接及报告任意；禁止音源及仅加工音源的素材再分发、热链和AI训练，允许作为应用操作音嵌入。此文件为未剪辑、未转码的原始下载，未作听审。"
+  },
+  {
+    "id": "paper_page_turn_02",
+    "filename": "paper_page_turn_02.mp3",
+    "original_title": "ページをめくる2",
+    "source_page": "https://soundeffect-lab.info/sound/various/various2.html",
+    "download_url": "https://soundeffect-lab.info/sound/various/mp3/page2.mp3",
+    "provider": "効果音ラボ",
+    "intended_uses": [
+      "卡册切换收藏",
+      "短翻页变体"
+    ],
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "license_note": "按2026-10-16官方条款：个人/商业作品可免费使用与加工，署名、链接及报告任意；禁止音源及仅加工音源的素材再分发、热链和AI训练，允许作为应用操作音嵌入。此文件为未剪辑、未转码的原始下载，未作听审。"
+  },
+  {
+    "id": "paper_pick_01",
+    "filename": "paper_pick_01.mp3",
+    "original_title": "紙を広げる1",
+    "source_page": "https://soundeffect-lab.info/sound/various/various2.html",
+    "download_url": "https://soundeffect-lab.info/sound/various/mp3/paper-take1.mp3",
+    "provider": "効果音ラボ",
+    "intended_uses": [
+      "接单读纸签",
+      "选卡纸/拿起材料"
+    ],
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "license_note": "按2026-10-16官方条款：个人/商业作品可免费使用与加工，署名、链接及报告任意；禁止音源及仅加工音源的素材再分发、热链和AI训练，允许作为应用操作音嵌入。此文件为未剪辑、未转码的原始下载，未作听审。"
+  },
+  {
+    "id": "paper_pick_02",
+    "filename": "paper_pick_02.mp3",
+    "original_title": "紙を広げる2",
+    "source_page": "https://soundeffect-lab.info/sound/various/various2.html",
+    "download_url": "https://soundeffect-lab.info/sound/various/mp3/paper-take2.mp3",
+    "provider": "効果音ラボ",
+    "intended_uses": [
+      "整理纸张",
+      "拿纸动作变体"
+    ],
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "license_note": "按2026-10-16官方条款：个人/商业作品可免费使用与加工，署名、链接及报告任意；禁止音源及仅加工音源的素材再分发、热链和AI训练，允许作为应用操作音嵌入。此文件为未剪辑、未转码的原始下载，未作听审。"
+  },
+  {
+    "id": "paper_cut",
+    "filename": "paper_cut.mp3",
+    "original_title": "ハサミで紙を切る",
+    "source_page": "https://soundeffect-lab.info/sound/various/various2.html",
+    "download_url": "https://soundeffect-lab.info/sound/various/mp3/scissors-paper1.mp3",
+    "provider": "効果音ラボ",
+    "intended_uses": [
+      "备料裁卡胚",
+      "工艺台落刀/剪纸候选"
+    ],
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "license_note": "按2026-10-16官方条款：个人/商业作品可免费使用与加工，署名、链接及报告任意；禁止音源及仅加工音源的素材再分发、热链和AI训练，允许作为应用操作音嵌入。此文件为未剪辑、未转码的原始下载，未作听审。"
+  },
+  {
+    "id": "foil_cut",
+    "filename": "foil_cut.mp3",
+    "original_title": "アルミホイルをちぎる",
+    "source_page": "https://soundeffect-lab.info/sound/various/various2.html",
+    "download_url": "https://soundeffect-lab.info/sound/various/mp3/aluminum-foil-cut1.mp3",
+    "provider": "効果音ラボ",
+    "intended_uses": [
+      "烫金纸裁切候选；原始对象为铝箔，不是实际烫金工艺"
+    ],
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "license_note": "按2026-10-16官方条款：个人/商业作品可免费使用与加工，署名、链接及报告任意；禁止音源及仅加工音源的素材再分发、热链和AI训练，允许作为应用操作音嵌入。此文件为未剪辑、未转码的原始下载，未作听审。"
+  },
+  {
+    "id": "foil_rustle",
+    "filename": "foil_rustle.mp3",
+    "original_title": "アルミホイルで包む",
+    "source_page": "https://soundeffect-lab.info/sound/various/various2.html",
+    "download_url": "https://soundeffect-lab.info/sound/various/mp3/aluminum-foil-wrap1.mp3",
+    "provider": "効果音ラボ",
+    "intended_uses": [
+      "箔片轻擦/烫金刷动候选；原始对象为铝箔包装"
+    ],
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "license_note": "按2026-10-16官方条款：个人/商业作品可免费使用与加工，署名、链接及报告任意；禁止音源及仅加工音源的素材再分发、热链和AI训练，允许作为应用操作音嵌入。此文件为未剪辑、未转码的原始下载，未作听审。"
+  },
+  {
+    "id": "film_rustle",
+    "filename": "film_rustle.mp3",
+    "original_title": "ラップで包む",
+    "source_page": "https://soundeffect-lab.info/sound/various/various2.html",
+    "download_url": "https://soundeffect-lab.info/sound/various/mp3/saran-wrap-wrap1.mp3",
+    "provider": "効果音ラボ",
+    "intended_uses": [
+      "薄膜摩擦/揭膜的风格替代候选；原始对象为保鲜膜包装"
+    ],
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "license_note": "按2026-10-16官方条款：个人/商业作品可免费使用与加工，署名、链接及报告任意；禁止音源及仅加工音源的素材再分发、热链和AI训练，允许作为应用操作音嵌入。此文件为未剪辑、未转码的原始下载，未作听审。"
+  },
+  {
+    "id": "tape_cut",
+    "filename": "tape_cut.mp3",
+    "original_title": "セロハンテープをちぎる",
+    "source_page": "https://soundeffect-lab.info/sound/various/various2.html",
+    "download_url": "https://soundeffect-lab.info/sound/various/mp3/cellophane-tape-cut1.mp3",
+    "provider": "効果音ラボ",
+    "intended_uses": [
+      "组装固定/胶带动作",
+      "揭膜短瞬态候选；原始对象为胶带裁断"
+    ],
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "license_note": "按2026-10-16官方条款：个人/商业作品可免费使用与加工，署名、链接及报告任意；禁止音源及仅加工音源的素材再分发、热链和AI训练，允许作为应用操作音嵌入。此文件为未剪辑、未转码的原始下载，未作听审。"
+  },
+  {
+    "id": "cafe_saucer_place",
+    "filename": "cafe_saucer_place.mp3",
+    "original_title": "コーヒーのソーサーを置く",
+    "source_page": "https://soundeffect-lab.info/sound/various/various2.html",
+    "download_url": "https://soundeffect-lab.info/sound/various/mp3/caffee-saucer-place1.mp3",
+    "provider": "効果音ラボ",
+    "intended_uses": [
+      "开场或收店杯碟环境点缀"
+    ],
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "license_note": "按2026-10-16官方条款：个人/商业作品可免费使用与加工，署名、链接及报告任意；禁止音源及仅加工音源的素材再分发、热链和AI训练，允许作为应用操作音嵌入。此文件为未剪辑、未转码的原始下载，未作听审。"
+  },
+  {
+    "id": "cafe_cup_place",
+    "filename": "cafe_cup_place.mp3",
+    "original_title": "ソーサーにコーヒーカップを置く",
+    "source_page": "https://soundeffect-lab.info/sound/various/various2.html",
+    "download_url": "https://soundeffect-lab.info/sound/various/mp3/saucer-caffee-place1.mp3",
+    "provider": "効果音ラボ",
+    "intended_uses": [
+      "咖啡店杯碟环境点缀"
+    ],
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "license_note": "按2026-10-16官方条款：个人/商业作品可免费使用与加工，署名、链接及报告任意；禁止音源及仅加工音源的素材再分发、热链和AI训练，允许作为应用操作音嵌入。此文件为未剪辑、未转码的原始下载，未作听审。"
+  },
+  {
+    "id": "printer_print",
+    "filename": "printer_print.mp3",
+    "original_title": "プリンタで印刷",
+    "source_page": "https://soundeffect-lab.info/sound/machine/",
+    "download_url": "https://soundeffect-lab.info/sound/machine/mp3/printer-print1.mp3",
+    "provider": "効果音ラボ",
+    "intended_uses": [
+      "冲印机运行/出纸候选；原始对象为打印机，非动画原版冲印机"
+    ],
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "license_note": "按2026-10-16官方条款：个人/商业作品可免费使用与加工，署名、链接及报告任意；禁止音源及仅加工音源的素材再分发、热链和AI训练，允许作为应用操作音嵌入。此文件为未剪辑、未转码的原始下载，未作听审。"
+  },
+  {
+    "id": "stamp_press",
+    "filename": "stamp_press.mp3",
+    "original_title": "はんこ",
+    "source_page": "https://on-jin.com/sound/sei.php?bunr=%E3%81%AF%E3%82%93%E3%81%93&kate=%E6%96%87%E5%85%B7",
+    "download_url": "https://on-jin.com/sound/ag/s915d2d099/se/c/sei_ge_hanko01.mp3",
+    "provider": "On-Jin ～音人～",
+    "intended_uses": [
+      "工艺台按章/抬章原始候选",
+      "蜡封按章候选"
+    ],
+    "license_url": "https://on-jin.com/kiyaku.php",
+    "license_note": "按2026-10-16官方条款：个人/社团作品可免费嵌入与加工；素材不得原样或仅加工后作为素材再分发，禁止热链。通常署名任意，但系统使音源裸露时必须署名On-Jin ～音人～（https://on-jin.com/）并标明音源禁止二次分发及擅用；商业事业等用途需另联系。网站音源目录每日04:00变更，download_url可能失效，应从source_page重新定位。原始下载未剪辑、未转码，未作听审。"
+  },
+  {
+    "id": "cafe_doorbell",
+    "filename": "cafe_doorbell.mp3",
+    "original_title": "カウベル（カランコロン）",
+    "source_page": "https://on-jin.com/sound/listshow.php?bunr=%E3%83%99%E3%83%AB%E3%83%BB%E9%90%98%E3%83%BB%E9%88%B4&janl=%E7%94%9F%E6%B4%BB%E7%B3%BB%E9%9F%B3&kate=%E9%81%93%E5%85%B7&pagename=sei&title=%E3%82%AB%E3%82%A6%E3%83%99%E3%83%AB%EF%BC%88%E3%82%AB%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%AD%E3%83%B3%EF%BC%89",
+    "download_url": "https://on-jin.com/sound/ag/s915d2d099/se/c/sei_ge_cowbell01.mp3",
+    "provider": "On-Jin ～音人～",
+    "intended_uses": [
+      "顾客到达",
+      "开门营业门铃"
+    ],
+    "license_url": "https://on-jin.com/kiyaku.php",
+    "license_note": "按2026-10-16官方条款：个人/社团作品可免费嵌入与加工；素材不得原样或仅加工后作为素材再分发，禁止热链。通常署名任意，但系统使音源裸露时必须署名On-Jin ～音人～（https://on-jin.com/）并标明音源禁止二次分发及擅用；商业事业等用途需另联系。网站音源目录每日04:00变更，download_url可能失效，应从source_page重新定位。原始下载未剪辑、未转码，未作听审。"
+  }
+]

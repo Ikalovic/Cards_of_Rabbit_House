@@ -1,0 +1,29 @@
+# API credentials — never commit
+生图示例请求.txt
+文案示例请求.txt
+.env
+.env.*
+!/.env.example
+/local-config/*
+!/local-config/README.md
+
+node_modules/
+node_modules
+dist/
+dist-server/
+coverage/
+*.log
+.DS_Store
+.superpowers/
+/archive/brainstorm/
+playwright-report/
+test-results/
+
+# Design docs and planning notes — local only.
+# docs/ keeps only the active audio plan (bgm.md).
+docs/
+!/docs/
+/docs/*
+v1.md
+bgm.md
+!/docs/bgm.md

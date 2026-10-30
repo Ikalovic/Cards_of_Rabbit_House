@@ -1,0 +1,37 @@
+name: cards-of-rabbit-house
+
+services:
+  game:
+    build:
+      context: ./game
+      dockerfile: Dockerfile
+    ports:
+      - "${GAME_PORT:-8080}:8080"
+    restart: unless-stopped
+    environment:
+      NODE_ENV: production
+      PORT: "8080"
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://127.0.0.1:8080/healthz | grep -q '^ok$'"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+      start_period: 5s
+
+  game-dev:
+    image: node:24-alpine
+    profiles: ["dev"]
+    working_dir: /app
+    command: ["sh", "-c", "npm ci && npm run dev -- --host 0.0.0.0 --port 5173"]
+    environment:
+      CHOKIDAR_USEPOLLING: "true"
+    ports:
+      - "${GAME_DEV_PORT:-5173}:5173"
+    volumes:
+      - ./game:/app
+      - game_node_modules:/app/node_modules
+      - game_npm_cache:/root/.npm
+
+volumes:
+  game_node_modules:
+  game_npm_cache:

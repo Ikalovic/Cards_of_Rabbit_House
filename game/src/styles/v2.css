@@ -1,0 +1,95 @@
+/* Visual refresh layer: loaded last, overrides earlier tokens and surfaces. */
+:root {
+  --v2-ink: #4a322b;
+  --v2-cream: #fff8ea;
+  --v2-caramel: #c98a55;
+  --v2-teal: #5f9eae;
+  --v2-rose: #cf7f86;
+  --v2-wood: url('/assets/v2/ui/wood-panel.png');
+  --v2-paper: url('/assets/v2/ui/paper-panel.png');
+  font-family: 'Noto Serif SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;
+}
+.card-layer__art, .material-tile__glyph img { display: block; width: 100%; height: auto; pointer-events: none; user-select: none; }
+.card-layer__glyph { font-size: 0; filter: drop-shadow(0 3px 3px rgba(64, 43, 37, 0.22)); }
+.material-tile__glyph { display: block; width: 54px; height: 54px; font-size: 0; }
+.material-tile__glyph img { width: 54px; height: 54px; object-fit: contain; }
+
+.title-screen { background: #4a3a30 url('/assets/v2/backgrounds/title-exterior.png') center / cover no-repeat; }
+.title-screen::before { background: linear-gradient(90deg, rgba(40,26,20,.62) 0%, rgba(40,26,20,.22) 45%, transparent 75%), linear-gradient(0deg, rgba(40,26,20,.3), transparent 40%); }
+.title-card { border: 2px solid rgba(201,138,85,.65); border-radius: 18px; background: var(--v2-paper) center / cover, var(--v2-cream); box-shadow: 0 24px 70px rgba(32,20,17,.42), inset 0 0 0 6px rgba(255,255,255,.45); }
+.title-card::before { width: 64px; height: 64px; top: 6px; left: 6px; border: 0; opacity: .9; background: url('/assets/v2/ui/corner-ornament.png') center / contain no-repeat; }
+.title-card::after { width: 64px; height: 64px; right: 6px; bottom: 6px; border: 0; opacity: .9; background: url('/assets/v2/ui/corner-ornament.png') center / contain no-repeat; transform: rotate(180deg); }
+.title-mark { top: 14px; right: 24px; width: 72px; height: 72px; background: url('/assets/v2/ui/logo-emblem.png') center / contain no-repeat; }
+.title-mark > * { display: none; }
+.title-card h1 { color: var(--v2-ink); }
+.menu-button { border: 1px solid rgba(201,138,85,.45); border-radius: 14px; background: rgba(255,251,242,.86); }
+.menu-button--primary { border-color: #a9605f; background: linear-gradient(135deg, #d98a88, #b3636a); }
+.menu-button:hover:not(:disabled) { border-color: var(--v2-caramel); box-shadow: 0 8px 20px rgba(87,57,48,.18); }
+
+.workbench-shell { background: linear-gradient(rgba(255,250,240,.35), rgba(239,229,212,.5)), url('/assets/v2/backgrounds/workbench.png') center / cover fixed; }
+.workbench-topbar { background: linear-gradient(rgba(255,248,234,.86), rgba(255,244,226,.9)), var(--v2-wood) center / cover; border-bottom: 3px solid #c9a15f; color: var(--v2-ink); }
+.workbench-topbar .brand-lockup__rabbit { background: url('/assets/v2/ui/logo-emblem.png') center / cover; font-size: 0; border: 0; box-shadow: none; }
+.shift-result-screen { background: linear-gradient(#53443180, #53443180), url('/assets/v2/backgrounds/cafe-interior.png') center / cover; }
+.menu-button small { font-size: 11px; color: #8a6f66; }
+.menu-button--primary small { color: rgba(255,255,255,.85); }
+.menu-button:disabled { opacity: .7; }
+
+.brush-options { display: grid; gap: 8px; margin: 8px 0; padding: 10px 12px; border: 1px solid rgba(201,138,85,.35); border-radius: 12px; background: rgba(255,251,242,.8); }
+.brush-options__colors, .brush-options__widths { display: flex; gap: 8px; align-items: center; }
+.brush-options__colors button { width: 26px; height: 26px; border: 2px solid rgba(74,50,43,.25); border-radius: 50%; cursor: pointer; }
+.brush-options__colors button.is-active { border-color: var(--v2-ink); box-shadow: 0 0 0 3px rgba(201,138,85,.5); }
+.brush-options__widths button { flex: 1; padding: 4px 0; border: 1px solid rgba(201,138,85,.45); border-radius: 8px; background: #fff; cursor: pointer; font-size: 12px; }
+.brush-options__widths button.is-active { background: var(--v2-caramel); color: #fff; border-color: var(--v2-caramel); }
+
+.material-tile__glyph:not(:has(img)) { display: grid; place-items: center; font-size: 30px; font-weight: 800; color: #8e4f4c; font-family: 'Noto Serif SC', serif; }
+
+/* Shared route bar + rewards strip, compact */
+.shift-route-bar { min-height: 44px; padding: 6px 20px !important; font-size: 14px; background: linear-gradient(rgba(74,50,43,.92), rgba(74,50,43,.92)), url('/assets/v2/ui/wood-panel.png') center / cover !important; color: #f7ead6 !important; }
+.shift-route-bar strong { font-family: 'Noto Serif SC', serif; font-size: 16px; letter-spacing: .1em; }
+.shift-route-bar .ghost-button, .shift-route-bar .secondary-button { padding: 5px 16px; border: 1px solid rgba(247,234,214,.5); border-radius: 999px; background: transparent; color: #f7ead6; cursor: pointer; }
+.shift-route-bar .secondary-button { background: #f7ead6; color: var(--v2-ink); }
+.survival-rewards { margin: 6px auto; padding: 6px 16px; font-size: 13px; border-color: rgba(201,138,85,.4); }
+
+/* StampBook */
+.book-screen { min-height: 0; padding-bottom: 16px; background: linear-gradient(rgba(250,243,231,.55), rgba(242,231,212,.7)), url('/assets/v2/backgrounds/stampbook-desk.png') center / cover fixed; }
+.book-header, .print-header { min-height: 64px; padding: 8px 32px; background: rgba(255,251,245,.88); backdrop-filter: blur(8px); }
+.book-header .ghost-button, .print-header .ghost-button { justify-self: start; padding: 6px 16px; border: 1px solid rgba(201,138,85,.5); border-radius: 999px; background: #fff; font-size: 14px; }
+.book-header h1, .print-header h1 { font-size: 24px; }
+.book-header__count span { font-size: 13px; }
+.book-layout { width: min(1360px, calc(100% - 48px)); height: calc(100vh - 190px); min-height: 560px; margin-top: 16px; }
+.book-index { display: flex; flex-direction: column; gap: 10px; overflow-y: auto; padding: 26px 28px 22px 32px; }
+.book-index h2 { margin: 6px 0 0; font-size: 18px; }
+.book-index h2:first-of-type { margin-top: 0; }
+.empty-note { margin: 0; font-size: 13px; }
+.card-index-list { gap: 8px; }
+.card-index-list button { position: static; min-height: 60px; font-size: 14px; }
+.card-index-list small { font-size: 12px; }
+.mini-paper { font-size: 12px; border-radius: 6px; }
+.mini-paper--cream { background: url('/assets/v2/papers/cream.png') center / cover; }
+.mini-paper--coffee { background: url('/assets/v2/papers/coffee.png') center / cover; }
+.mini-paper--mint { background: url('/assets/v2/papers/mint.png') center / cover; }
+.mini-paper--pink { background: url('/assets/v2/papers/pink.png') center / cover; }
+.book-detail { overflow-y: auto; padding: 28px 40px 24px; justify-content: center; }
+.book-detail__preview { width: min(620px, 82%); }
+.book-detail__caption span, .book-detail__caption strong { font-size: 14px; }
+.book-actions { margin-top: 14px; }
+.book-reassurance, .book-empty p { font-size: 13px; }
+
+/* Print desk */
+.print-screen { min-height: calc(100vh - 100px); }
+.print-screen p, .print-screen small { font-size: 14px; }
+.print-receipt { font-size: 14px; }
+
+/* Shift settlement */
+.shift-result-card { border-radius: 20px; border: 2px solid rgba(201,138,85,.5); background: var(--v2-paper) center / cover, #fff8ed; }
+.shift-result-card h1 { font-family: 'Noto Serif SC', serif; font-size: 30px; }
+.shift-result-numbers > div { background: rgba(255,255,255,.75); border: 1px solid rgba(201,138,85,.35); text-align: center; }
+.shift-result-numbers dd { color: #a8565e; font-size: 30px; }
+
+/* Puzzle panel */
+.puzzle-panel { border-radius: 16px; }
+.puzzle-instruction, .puzzle-prompt { font-size: 15px; }
+
+.shift-story-character { animation: v2-portrait-in 200ms ease-out; filter: drop-shadow(0 12px 24px rgba(40,26,20,.25)); }
+@keyframes v2-portrait-in { from { opacity: .4; transform: translateY(6px); } }
+@media (prefers-reduced-motion: reduce) { .shift-story-character { animation: none; } }

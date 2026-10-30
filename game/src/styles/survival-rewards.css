@@ -1,0 +1,19 @@
+.survival-rewards { margin: 12px auto; max-width: 1200px; padding: 12px 20px; border: 1px solid #d6c7ad; border-radius: 12px; background: #fff9ed; color: #5e493a; }
+.survival-rewards summary { cursor: pointer; font-weight: 700; }
+.survival-rewards p { margin: 8px 0; }
+.survival-rewards ul { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; padding: 0; list-style: none; }
+.survival-rewards li { display: grid; gap: 5px; padding: 10px; border-radius: 8px; background: #f4ecd9; }
+.survival-rewards li span, .survival-rewards small { font-size: .8rem; }
+.survival-rewards blockquote { margin: 12px 0 0; padding: 12px; border-left: 3px solid #89a8b0; background: #eef3ef; }
+.cosmetic-paper-cotton .card-paper-grain { opacity: .6; background-image: repeating-linear-gradient(12deg, transparent 0 3px, #a7906b33 3px 4px), repeating-linear-gradient(98deg, transparent 0 5px, #fff9e8aa 5px 6px); }
+.cosmetic-ribbon-rose .card-layer[data-asset-id="ribbon"] .card-layer__glyph { filter: sepia(.5) saturate(1.8) hue-rotate(295deg); }
+.cosmetic-book-botanical .book-index { color: #34452e; background: linear-gradient(135deg, #e0ead9, #fff9eb 70%); border-color: #9cab90; }
+.cosmetic-book-botanical .book-index h2 { color: #34452e; }
+.cosmetic-book-botanical .empty-note { color: #4f6046; }
+.cosmetic-book-botanical .card-index-list button { color: #34452e; border-color: #738467; background: #f3f5e8; }
+.cosmetic-book-botanical .card-index-list button:hover,
+.cosmetic-book-botanical .card-index-list button.is-active { color: #2f432c; border-color: #738467; background: #fffaf0; box-shadow: 0 8px 19px #34452e24; }
+.cosmetic-book-botanical .card-index-list small { color: #4f6046; opacity: 1; }
+.cosmetic-book-botanical .mini-paper { color: #34452e; border-color: #738467; }
+.cosmetic-book-botanical .mini-paper--coffee { color: #fffaf0; background: #805a3d; }
+.cosmetic-book-botanical .book-detail { background: radial-gradient(ellipse at top right, #d5dfc799, transparent 50%), #fffaf0; border-color: #9cab90; }

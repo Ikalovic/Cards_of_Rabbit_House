@@ -1,0 +1,313 @@
+{
+  "provider": "効果音ラボ",
+  "source_page": "https://soundeffect-lab.info/sound/button/",
+  "terms": {
+    "url": "https://soundeffect-lab.info/agreement/",
+    "reviewed_on": "2026-10-16",
+    "summary_zh": [
+      "下载音频即视为同意官网使用条款。",
+      "个人、法人和公立机构可免费使用，允许商业使用；报告、链接和署名为自愿。",
+      "允许改编后在作品中使用。",
+      "允许作为应用操作音嵌入；官网明确表示音源文件可直接可见。游戏（如RPG制作工具作品）列为使用示例。",
+      "禁止将原音或改编音作为独立素材再分发；以听音为主要目的的音效板、素材工具等亦属再分发。",
+      "禁止音频文件远程直链，游戏应使用本地下载文件。",
+      "禁止用于AI训练，禁止影响其他人使用素材的独占登记。",
+      "不得用于成人、违法或违反公序良俗的作品。"
+    ],
+    "scope_note_zh": "本目录是此游戏开发用的本地原音候选；不要将其作为独立音效包发布。"
+  },
+  "auditioned": false,
+  "assets": [
+    {
+      "id": "ui_click",
+      "filename": "ui_click.mp3",
+      "original_title": "決定ボタンを押す3",
+      "original_filename": "決定ボタンを押す3.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/decision3.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "ui_click"
+      ],
+      "source_description_ja": "柔らかめ",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:16.784031+00:00",
+      "bytes": 36988,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "ui_back",
+      "filename": "ui_back.mp3",
+      "original_title": "キャンセル6",
+      "original_filename": "キャンセル6.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/cancel6.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "ui_back"
+      ],
+      "source_description_ja": "ポップなイメージ",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:17.769398+00:00",
+      "bytes": 16299,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "ui_unavailable",
+      "filename": "ui_unavailable.mp3",
+      "original_title": "ビープ音5",
+      "original_filename": "ビープ音5.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/beep5.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "ui_unavailable"
+      ],
+      "source_description_ja": "短め",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:18.637382+00:00",
+      "bytes": 8703,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "dialogue_next",
+      "filename": "dialogue_next.mp3",
+      "original_title": "カーソル移動7",
+      "original_filename": "カーソル移動7.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/cursor7.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "dialogue_next"
+      ],
+      "source_description_ja": "可愛いイメージ",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:19.560418+00:00",
+      "bytes": 25703,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "dialogue_open",
+      "filename": "dialogue_open.mp3",
+      "original_title": "決定ボタンを押す34",
+      "original_filename": "決定ボタンを押す34.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/decision34.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "dialogue_open"
+      ],
+      "source_description_ja": "ポン。柔らかい音",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:20.532043+00:00",
+      "bytes": 25703,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "piece_place",
+      "filename": "piece_place.mp3",
+      "original_title": "決定ボタンを押す29",
+      "original_filename": "決定ボタンを押す29.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/decision29.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "piece_place"
+      ],
+      "source_description_ja": "木琴の生演奏",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:21.643137+00:00",
+      "bytes": 28544,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "archive_success",
+      "filename": "archive_success.mp3",
+      "original_title": "決定ボタンを押す4",
+      "original_filename": "決定ボタンを押す4.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/decision4.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "archive_success"
+      ],
+      "source_description_ja": "成功音にも使える",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:23.089754+00:00",
+      "bytes": 70843,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "patience_warning",
+      "filename": "patience_warning.mp3",
+      "original_title": "警告音1",
+      "original_filename": "警告音1.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/warning1.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "patience_warning"
+      ],
+      "source_description_ja": "ピンピンピン",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:24.116139+00:00",
+      "bytes": 35734,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "puzzle_success",
+      "filename": "puzzle_success.mp3",
+      "original_title": "成功音",
+      "original_filename": "成功音.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/success1.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "puzzle_success"
+      ],
+      "source_description_ja": "ゲーム等で何かが成功した時",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:25.283412+00:00",
+      "bytes": 59558,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "puzzle_failure",
+      "filename": "puzzle_failure.mp3",
+      "original_title": "ビープ音1",
+      "original_filename": "ビープ音1.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/beep1.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "puzzle_failure",
+        "ui_unavailable"
+      ],
+      "source_description_ja": "選択不可項目を押した時のエラー音",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:26.674809+00:00",
+      "bytes": 26957,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "machine_ready",
+      "filename": "machine_ready.mp3",
+      "original_title": "決定ボタンを押す8",
+      "original_filename": "決定ボタンを押す8.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/decision8.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "machine_ready"
+      ],
+      "source_description_ja": "読み込み完了",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:28.431636+00:00",
+      "bytes": 74604,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "delivery_good",
+      "filename": "delivery_good.mp3",
+      "original_title": "決定ボタンを押す30",
+      "original_filename": "決定ボタンを押す30.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/decision30.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "delivery_good"
+      ],
+      "source_description_ja": "爽やかな電子音",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:30.174606+00:00",
+      "bytes": 79620,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "delivery_okay",
+      "filename": "delivery_okay.mp3",
+      "original_title": "決定ボタンを押す23",
+      "original_filename": "決定ボタンを押す23.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/decision23.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "delivery_okay"
+      ],
+      "source_description_ja": "控え目な決定音",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:31.924927+00:00",
+      "bytes": 30719,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "result_clear",
+      "filename": "result_clear.mp3",
+      "original_title": "決定ボタンを押す24",
+      "original_filename": "決定ボタンを押す24.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/decision24.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "result_clear"
+      ],
+      "source_description_ja": "明るい長めの音",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:33.339792+00:00",
+      "bytes": 43257,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "result_retry",
+      "filename": "result_retry.mp3",
+      "original_title": "決定ボタンを押す22",
+      "original_filename": "決定ボタンを押す22.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/decision22.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "result_retry"
+      ],
+      "source_description_ja": "ピコッ。可愛らしい",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:35.921209+00:00",
+      "bytes": 23195,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    },
+    {
+      "id": "dialogue_next_alt",
+      "filename": "dialogue_next_alt.mp3",
+      "original_title": "メッセージ表示音3",
+      "original_filename": "メッセージ表示音3.mp3",
+      "source_page": "https://soundeffect-lab.info/sound/button/",
+      "download_url": "https://soundeffect-lab.info/sound/button/mp3/message-display3.mp3",
+      "provider": "効果音ラボ",
+      "intended_uses": [
+        "dialogue_next",
+        "dialogue_open"
+      ],
+      "source_description_ja": "可愛いイメージ",
+      "selection_basis": "Official source labels and descriptions; not auditioned.",
+      "retrieved_at_utc": "2026-10-16T07:37:37.476085+00:00",
+      "bytes": 25076,
+      "content_type": "audio/mpeg",
+      "processing": "Original downloaded bytes, no synthesis, trimming, or transcoding."
+    }
+  ],
+  "errors": []
+}
